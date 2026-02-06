@@ -85,7 +85,7 @@ class Rara_Theme_Companion_Team_Member_Widget extends WP_Widget {
                     </div>
                     <ul class="social-profile">
                         <?php if( isset( $linkedin ) && $linkedin!='' ) { echo '<li><a '.$target.' href="'.esc_url($linkedin).'"><i class="fab fa-linkedin"></i></a></li>'; }?>
-                        <?php if( isset( $twitter ) && $twitter!='' ) { echo '<li><a '.$target.' href="'.esc_url($twitter).'"><i class="fab fa-twitter"></i></a></li>'; }?>
+                        <?php if( isset( $twitter ) && $twitter!='' ) { echo '<li><a '.$target.' href="'.esc_url($twitter).'"><i class="fab fa-x-twitter"></i></a></li>'; }?>
                         <?php if( isset( $facebook ) && $facebook!='' ) { echo '<li><a '.$target.' href="'.esc_url($facebook).'"><i class="fab fa-facebook"></i></a></li>'; }?>
                         <?php if( isset( $instagram ) && $instagram!='' ) { echo '<li><a '.$target.' href="'.esc_url($instagram).'"><i class="fab fa-instagram"></i></a></li>'; }?>
                         <?php if( isset( $youtube ) && $youtube!='' ) { echo '<li><a '.$target.' href="'.esc_url($youtube).'"><i class="fab fa-youtube"></i></a></li>'; }?>
@@ -136,7 +136,7 @@ class Rara_Theme_Companion_Team_Member_Widget extends WP_Widget {
                     </div>
                     <ul class="social-profile">
                         <?php if( isset( $linkedin ) && $linkedin!='' ) { echo '<li><a '.$target.' href="'.esc_url($linkedin).'"><i class="fab fa-linkedin"></i></a></li>'; }?>
-                        <?php if( isset( $twitter ) && $twitter!='' ) { echo '<li><a '.$target.' href="'.esc_url($twitter).'"><i class="fab fa-twitter"></i></a></li>'; }?>
+                        <?php if( isset( $twitter ) && $twitter!='' ) { echo '<li><a '.$target.' href="'.esc_url($twitter).'"><i class="fab fa-x-twitter"></i></a></li>'; }?>
                         <?php if( isset( $facebook ) && $facebook!='' ) { echo '<li><a '.$target.' href="'.esc_url($facebook).'"><i class="fab fa-facebook"></i></a></li>'; }?>
                         <?php if( isset( $instagram ) && $instagram!='' ) { echo '<li><a '.$target.' href="'.esc_url($instagram).'"><i class="fab fa-instagram"></i></a></li>'; }?>
                         <?php if( isset( $youtube ) && $youtube!='' ) { echo '<li><a '.$target.' href="'.esc_url($youtube).'"><i class="fab fa-youtube"></i></a></li>'; }?>

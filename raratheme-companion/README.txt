@@ -3,9 +3,9 @@ Contributors: raratheme
 Donate link: https://raratheme.com/
 Tags: widgets, sidebars, social links, posts
 Requires at least: 4.4.0
-Tested up to: 6.7
+Tested up to: 6.9
 Requires PHP: 7.4
-Stable tag: 1.4.3
+Stable tag: 1.4.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -72,6 +72,11 @@ RaraTheme Companion provides 23 different handy widgets for sidebars to create a
 1. Plugin backend
 
 == Changelog ==
+
+= 1.4.4 =
+Released on: 6th January, 2026
+
+* Compatibility Update
 
 = 1.4.3 =
 Released on: 15th April, 2024

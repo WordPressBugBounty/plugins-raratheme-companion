@@ -393,6 +393,7 @@ class RaraTheme_Companion_Functions {
             'tumblr',
             'tumblr-square',
             'twitch',
+            'x-twitter',
             'twitter',
             'twitter-square',
             'typo3',
